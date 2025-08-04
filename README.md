@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Information Retrieval, Python, React.js, Java Script (Advance), VueJs (Advance), Networking, and so on..**
 
-- 👨‍💻 My CV at (http://bit.ly/4g6SHBx)
+- 👨‍💻 My CV at (http:)
 
-- 📫 How to reach me **ahmad.naufalangkasah@gmail.com**
+- 📫 How to reach me **fajar.tengku23@gmail.com**
 
 - ⚡ Fun fact **I am Humble, Funny, and Easily Adaptable**
 
