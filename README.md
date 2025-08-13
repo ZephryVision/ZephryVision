@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/naufal-angkasah-030401276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naufal Angkasah" height="30" width="40" /></a>
-<a href="https://www.instagram.com/naufal.angkasah/profilecard/?igsh=MXNsbTl1bG5oMzZkeQ== " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufal.angkasah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tengku-fajar-755781292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naufal Angkasah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fajar_tengku23 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naufal.angkasah" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Tools and Skills
