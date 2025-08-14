@@ -94,13 +94,6 @@ Here are some ideas to get you started:
    <p align="left">
      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 
-- **Network Management:** 
-   <p align="left">
-  <a href="https://mikrotik.com/" target="_blank" rel="noreferrer"> <img src="https://mikrotik.com/img/mtv2/newlogo.svg" alt="MicroTik" width="60" height="40"/> </a>
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg" alt="Cisco" width="40" height="40"/> </a>
-  <a href="https://www.huawei.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="Huawei" width="40" height="40"/> </a>
-  <a href="https://www.nsnam.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Ns-3-logo.png" alt="NS3" width="40" height="40"/> </a> 
-
 <!--   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>  -->
 
 <!--   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>  -->
